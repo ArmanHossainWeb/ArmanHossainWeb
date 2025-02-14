@@ -22,7 +22,7 @@
 - Digital Marketing - 2023
 - Web Design and Development-2024
 ## Contact Info
-- 📫 You can reach me through the following channels: Email: armanhossain0477@gmail.com
+- 📫 You can reach me through the following channels: Email: armanhossain.creative@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
