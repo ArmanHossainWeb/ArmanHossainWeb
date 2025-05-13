@@ -35,5 +35,5 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](![ArmanHossainWeb's Stats](https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&theme=dark&show_icons=true&hide_border=false&count_private=true))
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&theme=dark&show_icons=true&hide_border=false&count_private=true))
 
