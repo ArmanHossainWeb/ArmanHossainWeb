@@ -57,10 +57,17 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 
 
 
+## 📊 GitHub Activity Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-hossain&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-hossain&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arman-hossain&show_icons=true&theme=radical" alt="Arman's GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=arman-hossain&theme=radical" alt="Arman's GitHub Streak" height="180" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-hossain&layout=compact&theme=radical" alt="Top Languages Used" />
+</p>
+
 
 ---
 
