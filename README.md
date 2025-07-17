@@ -42,10 +42,8 @@ Currently pursuing my Diploma in Computer Science, and building full-stack web a
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-hossain&show_icons=true&theme=radical" alt="Arman's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-hossain&theme=radical" alt="GitHub Streak" height="150" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 ---
 
