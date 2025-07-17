@@ -40,7 +40,7 @@ Currently pursuing my Diploma in Computer Science, and building full-stack web a
 
 ---
 
-## 📈 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arman-hossain&show_icons=true&theme=radical" alt="Arman's GitHub Stats" height="150" />
@@ -51,9 +51,9 @@ Currently pursuing my Diploma in Computer Science, and building full-stack web a
 
 ## 🌐 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/armanhossainweb)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/ArmanHossa17674)
-- 📬 Email: [armanhossain.expert@gmail.com](mailto:armanhossain.expert@gmail.com)
+- 🔗 LinkedIn: (https://linkedin.com/in/armanhossainweb)
+- 🐦 Twitter: (https://twitter.com/ArmanHossa17674)
+- 📬 Email: (mailto:armanhossain.expert@gmail.com)
 
 ---
 
