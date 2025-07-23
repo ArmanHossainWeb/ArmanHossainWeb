@@ -44,17 +44,6 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 
 ---
 
-## 📌 Pinned Projects
-
-➡️ [Tutor Booking Platform](https://github.com/arman-hossain/tutor-booking)  
-➡️ [Personal Portfolio](https://github.com/arman-hossain/portfolio)  
-➡️ [Firebase Auth System](https://github.com/arman-hossain/firebase-auth-jwt)  
-➡️ [Tailwind UI Components](https://github.com/arman-hossain/tailwind-ui-components)
-
-*Pin these in your profile for better visibility.*
-
----
-
 
 
 ## 📊 GitHub Activity Stats
@@ -74,9 +63,7 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 ## 🔗 Connect With Me
 
 - 📫 Email: [armanhossain.expert@gmail.com](mailto:armanhossain.expert@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com)
-- 🌍 Facebook: [facebook.com/arman.hossain](https://facebook.com)
+- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/armanaraf/)
 
 ---
 
