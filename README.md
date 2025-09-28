@@ -54,31 +54,18 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 
 ---
 
-## 🌟 Featured Projects
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="[LINK_TO_PROJECT_1]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-hossain&repo=Tutor-Booking-Platform&theme=radical" alt="Project Pin 1" /></a>
-  <a href="[LINK_TO_PROJECT_2]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-hossain&repo=Your-Other-Cool-Project&theme=radical" alt="Project Pin 2" /></a>
-</p>
-<br>
-<p align="center">
-  <a href="[LINK_TO_PROJECT_3]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-hossain&repo=Another-Project-Name&theme=radical" alt="Project Pin 3" /></a>
-</p>
-
----
-
-## 📊 GitHub Activity Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-hossain&show_icons=true&theme=radical&hide_border=true" alt="Arman's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=arman-hossain&theme=radical&hide_border=true" alt="Arman's GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-hossain&layout=compact&theme=radical&hide_border=true" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-miah&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
+
 
 ## 🔗 Connect With Me
 
