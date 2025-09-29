@@ -57,7 +57,7 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&theme=react&hide_border=true" />
+  <img src="anuraghazra/github-readme-stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=react&hide_border=true" />
   <br/>
