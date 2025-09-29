@@ -56,7 +56,8 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center" >
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
@@ -65,6 +66,7 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
   &nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true" alt="Trophies" />
 </p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=dark&hide_border=true" alt="Streak Stats" />
@@ -72,6 +74,10 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 
 <p align="center">
   <a href="https://github.com/ArmanHossainWeb"><img src="https://img.shields.io/github/followers/ArmanHossainWeb?label=Follow&style=social" alt="Followers"></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 
