@@ -58,29 +58,25 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 
 <div align="center">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true" alt="Trophies" height="150"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=dark&hide_border=true" alt="Streak Stats" height="150"/></td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150" />
+<br/>
 
-  </div>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true" alt="Trophies" height="150" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=dark&hide_border=true" alt="Streak Stats" height="150" />
-
-  </div>
-
-  <br/>
-
-  <a href="https://github.com/ArmanHossainWeb">
-    <img src="https://img.shields.io/github/followers/ArmanHossainWeb?label=Follow&style=social" alt="Followers">
-  </a>
+<a href="https://github.com/ArmanHossainWeb">
+  <img src="https://img.shields.io/github/followers/ArmanHossainWeb?label=Follow&style=social" alt="Followers">
+</a>
 
 </div>
+
 
 
 ---
