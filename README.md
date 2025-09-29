@@ -1,53 +1,58 @@
 <h1 align="center">Hi there, I'm Arman Hossain 👋</h1>
+
 <p align="center">
-  💻 Frontend Developer | 🎓 CSE Student | 🚀 Tech Enthusiast
+  💻 Frontend Developer | 🎓 CSE Student | 🚀 Tech Explorer
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a passionate **Frontend Developer** with a creative mindset and strong command over modern web technologies. 
-Currently pursuing my Diploma in Computer Science and actively building full-stack applications using React, Firebase, and MongoDB.
+I’m **Arman Hossain**, a passionate **Frontend Developer** with strong skills in building modern, responsive, and user-friendly applications.  
+I enjoy learning new technologies, exploring React components, and experimenting with creative UI/UX designs.  
 
-- 🔭 I’m currently working on: **Tutor Booking Platform**
-- 🌱 I’m learning: **Next.js, TypeScript, UI/UX Design**
-- 🎯 My goal: To become a top-notch Full Stack Developer
-- 💬 Ask me about: Web Development, React, Firebase
-- 📫 How to reach me: [armanhossain.expert@gmail.com](mailto:armanhossain.expert@gmail.com)
-- ⚡ Fun fact: I love solving UI challenges and turning clean designs into real websites!
+Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React, Firebase, Node.js, Express, and MongoDB** 🚀  
+
+- 🔭 Project: **Full Stack Tutor Booking Platform**  
+- 🌱 Exploring: **React Components, Next.js, TypeScript**  
+- 🎯 Goal: To become a **skilled Full Stack Developer**  
+- 💬 Ask me about: **React, Firebase, Node.js, MongoDB**  
+- 📫 Reach me: [armanhossain0477@gmail.com](mailto:armanhossain0477@gmail.com)  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills & Technologies  
 
 <div align="center">
-  
-### Frontend
+
+### 🌐 Frontend  
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOM-ffcc00?logo=javascript&logoColor=black" />
 </p>
 
-### Backend & DB
+### ⚙️ Backend & Database  
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" />
 </p>
 
-### Tools & Others
+### 🛠 Tools & Others  
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
 </p>
 
 </div>
@@ -69,26 +74,22 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 </div>
 
 
-
-
-
 ---
 
-
-## 🔗 Connect With Me
+## 🔗 Connect With Me  
 
 <p align="center">
-  <a href="mailto:armanhossain.expert@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:armanhossain0477@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/armanaraf/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/armanhossainweb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[YOUR_TWITTER_LINK]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/ArmanHossa17674" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_LINK]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://arman-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </p>
 
