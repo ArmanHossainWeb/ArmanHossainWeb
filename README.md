@@ -58,21 +58,13 @@ Currently pursuing my Diploma in Computer Science and actively building full-sta
 
 <div align="center">
 
-  <!-- First Row -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+<!-- First Row -->
+| GitHub Stats | Top Languages | Streak Stats |
+| --- | --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=dark&hide_border=true" alt="Streak Stats" height="150" /> |
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150" />
-  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=dark&hide_border=true" alt="Streak Stats" height="150" />
-
-  </div>
-
-  <!-- Second Row -->
-  <div style="margin-top: 20px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true" alt="Trophies" height="150" />
-  </div>
+<!-- Second Row -->
+<img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true" alt="Trophies" height="150" />
 
 </div>
 
