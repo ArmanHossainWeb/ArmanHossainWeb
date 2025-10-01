@@ -63,29 +63,20 @@ Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React
 
 <div align="center">
 
-<!-- First Row: GitHub Stats + Top Languages (Tokyo Night Theme) -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150" />
-    </td>
-  </tr>
+<!-- GitHub Stats (Row 1 - Item 1, Theme: Tokyo Night) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
 
-  <!-- Second Row: Streak Stats + Trophies (Gruvbox Theme) -->
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=gruvbox&hide_border=true" alt="Streak Stats" height="150" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true&row=1&column=4" alt="Trophies" height="150" />
-    </td>
-  </tr>
-</table>
+<!-- Top Languages (Row 1 - Item 2, Theme: Tokyo Night) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="100%" />
+
+<!-- Streak Stats (Row 2 - Item 1, Theme: Gruvbox) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=gruvbox&hide_border=true" alt="Streak Stats" width="100%" />
+
+<!-- Trophies (Row 2 - Item 2, Theme: Gruvbox) -->
+<img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" width="100%" />
 
 </div>
+
 
 
 
