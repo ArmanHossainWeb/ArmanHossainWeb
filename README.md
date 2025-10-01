@@ -63,16 +63,30 @@ Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React
 
 <div align="center">
 
-<!-- First Row -->
-| GitHub Stats | Top Languages | Streak Stats |
-| --- | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150" /> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=dark&hide_border=true" alt="Streak Stats" height="150" /> |
+<!-- First Row: GitHub Stats + Top Languages (Tokyo Night Theme) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ArmanHossainWeb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanHossainWeb&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="150" />
+    </td>
+  </tr>
 
-<!-- Second Row -->
- 
-<img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true" alt="Trophies" height="150" />
+  <!-- Second Row: Streak Stats + Trophies (Gruvbox Theme) -->
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanHossainWeb&theme=gruvbox&hide_border=true" alt="Streak Stats" height="150" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=ArmanHossainWeb&theme=gruvbox&no-frame=true&row=1&column=4" alt="Trophies" height="150" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 ---
