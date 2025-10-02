@@ -110,4 +110,3 @@ Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React
 
 ---
 
-> *"Let your code speak louder than your resume." – Arman Hossain*
