@@ -1,8 +1,10 @@
-<h1 align="center">Hi there, I'm Arman Hossain 👋</h1>
+
 
 <p align="center">
   <img src="https://i.ibb.co.com/Gvfs2Cq9/Gray-Minimalist-Web-Development-Linkedin-Banner-1.png" alt="Banner" />
 </p>
+
+<h1 align="center">Hi there, I'm Arman Hossain 👋</h1>
 
 <p align="center">
   💻 Frontend Developer | 🎓 CSE Student | 🚀 Tech Explorer
