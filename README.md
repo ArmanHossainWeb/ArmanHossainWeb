@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Arman Hossain 👋</h1>
 
 <p align="center">
+  <img src="https://i.ibb.co.com/Gvfs2Cq9/Gray-Minimalist-Web-Development-Linkedin-Banner-1.png" alt="Banner" />
+</p>
+
+<p align="center">
   💻 Frontend Developer | 🎓 CSE Student | 🚀 Tech Explorer
 </p>
 
@@ -59,9 +63,9 @@ Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- Row 1: GitHub Stats + Top Languages (Tokyo Night Theme) -->
+<!-- Row 1: GitHub Stats + Top Languages -->
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -73,7 +77,7 @@ Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React
   </tr>
 </table>
 
-<!-- Row 2: Streak Stats + Trophies (Gruvbox Theme) -->
+<!-- Row 2: Streak Stats + Trophies -->
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -84,10 +88,6 @@ Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React
     </td>
   </tr>
 </table>
-
-
-
-
 
 ---
 
@@ -109,4 +109,3 @@ Currently, I’m working on a **Full-Stack Tutor Booking Platform** with **React
 </p>
 
 ---
-
